@@ -1,6 +1,6 @@
 from config import token
 from telebot import TeleBot
-
+#aboba
 bot = TeleBot(token)
 
 @bot.message_handler(commands=['info'])
